@@ -1,0 +1,40 @@
+
+  /* Make sure that padding behaves as expected */
+  * {
+    box-sizing: border-box
+  }
+
+  /* Container for skill bars */
+  .container {
+    width: 100%;
+    /* Grey background */
+  }
+
+  .python {
+    width: 90%;
+    background-color: #21325e;
+  }
+
+  /* Green */
+  .java {
+    width: 90%;
+    background-color: #21325e;
+  }
+
+  /* Blue */
+  .js {
+    width: 70%;
+    background-color: #21325e;
+  }
+
+  /* Red */
+  .C {
+    width: 60%;
+    background-color: #21325e;
+  }
+
+  .percent {
+    font-style: italic;
+    font-size: 20px;
+    color: #c1c5cf;
+  }
