@@ -51,14 +51,14 @@ function Experience() {
         icon={<Work/>}
         >
           <h3 className='vertical-timeline-element-title'> 
-          BMO Harris | Technician
+          Technician | BMO Harris Bank
           </h3>
 
           <h4 className='vertical-timeline-element-subtitle'>
           Downtown Toronto
           </h4>
 
-          <p>Install branch computers and troubleshoot problems</p>
+          <p>Install branch computers and troubleshoot problems.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement 
@@ -68,7 +68,7 @@ function Experience() {
         icon={<Work/>}
         >
           <h3 className='vertical-timeline-element-title'> 
-          AKHNY Solutions Inc. | Data Science Intern
+          Data Science Intern | AKHNY Solutions Inc.
           </h3>
 
           <h4 className='vertical-timeline-element-subtitle'>
