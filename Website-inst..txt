@@ -1,0 +1,6 @@
+WEBSITE - to update to netlify: 
+git add .
+git commit -m 'changes'
+git push
+
+Netlify dashboard: https://app.netlify.com/sites/hellofauzan/overview

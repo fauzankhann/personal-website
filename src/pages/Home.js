@@ -71,8 +71,9 @@ function Home() {
 
 
           </li>
+          <br/>
           <div className='download'>
-            <br /><a href={pdf_resume} target="_blank">Download Resume</a>
+            <br /><a href={pdf_resume} target="_blank"><button><br/>Download Resume</button></a>
           </div>
 
 
