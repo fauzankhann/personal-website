@@ -26,7 +26,7 @@ export const ProjectList = [
         skills: "Python"
     },
     {
-        name: "Personal-Website",
+        name: "My Personal Website",
         image: proj5,
         skills: "React, JavaScript, CSS"
     },
