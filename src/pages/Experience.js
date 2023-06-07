@@ -58,7 +58,7 @@ function Experience() {
           Downtown Toronto
           </h4>
 
-          <p>Install branch computers and troubleshoot problems.</p>
+          <p>Install branch computers and troubleshoot problems</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement 

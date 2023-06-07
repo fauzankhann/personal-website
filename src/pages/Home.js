@@ -1,7 +1,5 @@
 import React from 'react'
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import GitHub from '@mui/icons-material/GitHub';
-import Email from '@mui/icons-material/Email';
+import CodeIcon from '@mui/icons-material/Code';
 import '../styles/Home.css'
 import pdf_resume from '../Files/Fauzan_resume.pdf'
 import '../styles/home2.css'
@@ -13,9 +11,7 @@ function Home() {
         <h2> Hello, My Name is Fauzan. </h2>
         <div className="prompt">
           <p>A programmer with a passion for learning & creating. Pleased to meet you!</p>
-          <LinkedInIcon />
-          <Email />
-          <GitHub />
+          <CodeIcon/>
         </div>
       </div>
       <div className="skills">
@@ -40,7 +36,7 @@ function Home() {
           </li>
 
           <li className="item">
-            <h2><br />Technical Skills</h2>
+            <h2><br />Technical Skills <CodeIcon/></h2>
             <p>Python</p>
             <div class="container">
               <div class="skills python">
@@ -75,8 +71,11 @@ function Home() {
           <div className='download'>
             <br /><a href={pdf_resume} target="_blank"><button><br/>Download Resume</button></a>
           </div>
-
-
+          
+          <div className='lastInfo'>
+            <p><br/>Take a look at projects and experiences</p>
+          </div>
+          
         </ol>
       </div>
     </div>

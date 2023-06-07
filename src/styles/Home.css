@@ -69,6 +69,10 @@
   font-size: 18px;
 }
 
+.lastInfo {
+  text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
   .about h2 {
     font-size: 40px;
